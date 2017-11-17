@@ -9,13 +9,15 @@ Sei kein Larry, mach 1 Pull-Request!
 
 ### VONG installieren
 
-1. Kopiere die Inhalte von "copy_this" in das Root-Verzeichnis des Shops (dort, wo bootstrap.php liegt)
-2. Lege eine neue Sprache im Shop-Admin an: Verwende "vong" als Sprachkürzel. Aktiviere die neue Sprache.
-3. Leere das Compile-Verzeichnis
-4. Weitere Übersetzungen müssen immer "vong" heißen, vong Code her.
+1. Kopiere die Inhalte von "copy_this" in das Root-Verzeichnis des Shops (dort, wo bootstrap.php liegt).
+2. Lege eine neue Sprache im Shop-Admin an und verwende "vong" als Sprachkürzel. Aktiviere die neue Sprache.
+3. Leere das Compile-Verzeichnis und generiere die Datenbank-Views neu.
+4. Weitere Übersetzungen müssen immer "vong" heißen, vong ID her.
 
 ### Credits
 
 Inspiriert von Michel.
 
-Quelle für diese Übersetzung ist die deutsche Fassung der Sprachdatei in OXID eShop 6.0 Community Edition.
+Mit Ideen aus verschiedenen "Jugendsprache"-Wörterbüchern und "Nachdenkliche Sprüche mit Bilder".
+
+Das Ausgangsmaterial für diese Übersetzungen sind die deutschen Fassung der Sprachdateien in OXID eShop 6.0 Community Edition inklusive Flow-Theme.

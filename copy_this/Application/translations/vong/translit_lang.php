@@ -1,10 +1,10 @@
 <?php
 /**
- * © OXID eSales AG, von Copyright her. Alle Rechte vorbehaltem.
+ * © für die Ausgangsfassung dieser Datei: OXID eSales AG, vong Copyright her. Alle Rechte vorbehaltem.
  */
 
 /**
- * Character list for replacement in SEO URL's
+ * Character list for replacement in SEO URLs
  * @var array SEO replacement list
  */
 $aSeoReplaceChars = [
